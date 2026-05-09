@@ -5,7 +5,7 @@
   "type": "module",
   "author": "Syed Affan Ali",
   "bin": {
-    "gen": "./bin/index.js"
+    "gen": "bin/index.js"
   },
   "keywords": [
     "ai",
