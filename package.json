@@ -1,6 +1,6 @@
 {
   "name": "code-craft-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A high-performance CLI tool to generate runnable code files using Gemini AI",
   "type": "module",
   "author": "Syed Affan Ali",
