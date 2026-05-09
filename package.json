@@ -1,6 +1,6 @@
 {
   "name": "code-craft-cli",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "A high-performance CLI tool to generate runnable code files using Gemini AI",
   "type": "module",
   "author": "Syed Affan Ali",
@@ -14,6 +14,14 @@
     "cli",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAfoo/code-craft-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrAfoo/code-craft-cli/issues"
+  },
+  "homepage": "https://github.com/MrAfoo/code-craft-cli#readme",
   "license": "MIT",
   "dependencies": {
     "@ai-sdk/google": "^3.0.71",
