@@ -5,7 +5,7 @@
   "type": "module",
   "author": "Syed Affan Ali",
   "bin": {
-    "gen": "bin/index.js"
+    "gen": "./bin/index.js"
   },
   "keywords": [
     "ai",
@@ -14,14 +14,6 @@
     "cli",
     "typescript"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MrAfoo/code-craft-cli.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MrAfoo/code-craft-cli/issues"
-  },
-  "homepage": "https://github.com/MrAfoo/code-craft-cli#readme",
   "license": "MIT",
   "dependencies": {
     "@ai-sdk/google": "^3.0.71",

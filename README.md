@@ -54,7 +54,7 @@ gen "binary search algorithm" --name search.ts
 
 Syed Affan Ali
 
-GitHub: [MrAfoo](https://github.com/MrAfoo)
+GitHub: [MrAfoo](https://github.com/MrAfoo/code-craft-cli)
 
 Portfolio: [Click Here](https://mrafoo-portfolio.vercel.app)
 
